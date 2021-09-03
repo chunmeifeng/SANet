@@ -30,10 +30,11 @@ If you find SANet useful for your research, please consider citing the following
   booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
   year={2021}
 }
-@inproceedings{feng2021MINet,
+@inproceedings{feng2021SANet,
   title={Exploring Separable Attention for Multi-Contrast MR Image Super-Resolution},
   author={Feng, Chun-Mei and Yan, Yunlu and Liu, Chengliang and Fu, Huazhu and Xu, Yong and Shao, Ling},
-  booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+  journal={arXiv e-prints},
+  pages={arXiv--2106},
   year={2021}
 }
 ```
