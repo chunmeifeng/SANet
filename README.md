@@ -21,7 +21,7 @@ Change other arguments that you can train your own model.
 
 **Parameter settings**
 ```
-The detailed parameter settings can be find in our arXiv paper.
+The detailed parameter settings can be find in our arXiv paper: https://arxiv.org/pdf/2109.01664.pdf
 ```
 
 Citation
