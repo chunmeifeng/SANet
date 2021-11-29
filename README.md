@@ -19,6 +19,10 @@ sbatch job.sh
 
 Change other arguments that you can train your own model.
 
+
+The detailed parameter settings can be find in our arXiv paper.
+
+
 Citation
 
 If you find SANet useful for your research, please consider citing the following papers:
