@@ -19,6 +19,7 @@ sbatch job.sh
 
 Change other arguments that you can train your own model.
 
+**Parameter settings**
 
 The detailed parameter settings can be find in our arXiv paper.
 
